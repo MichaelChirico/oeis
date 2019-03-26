@@ -1,0 +1,10 @@
+Package: oeis
+Type: Package
+Title: R Interface to On-Line Encyclopedia of Integer Sequences (OEIS)
+Version: 0.1.0
+Author: Michael Chirico
+Maintainer: Michael Chirico <MichaelChirico4@gmail.com>
+Description: The OEIS is a database of integer patterns. It's very useful for learning if a pattern of numbers you're seeing is related to something deeper.
+    This package provides a simple interface for querying the OEIS from within R.
+License: GPL (>= 2) | file LICENSE
+Encoding: UTF-8
